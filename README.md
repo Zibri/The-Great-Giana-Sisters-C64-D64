@@ -8,6 +8,6 @@
 <a href="https://github.com/Zibri/The-Great-Giana-Sisters-C64-D64/raw/master/The%20Great%20Gianna%20Sisters.d64">Click here to download</a>
 
 # Original file with the original default High Scores
-<a href="https://github.com/Zibri/The-Great-Giana-Sisters-C64-D64/raw/master/The%20Great%20Gianna%20Sisters%20-%20Original.d64">Click here to download</a>
+<a href="https://github.com/Zibri/The-Great-Giana-Sisters-C64-D64/raw/master/The%20Great%20Gianna%20Sisters%20-%20Original%20Hiscores.d64">Click here to download</a>
 
 <img src="https://github.com/Zibri/The-Great-Giana-Sisters-C64-D64/blob/master/gianna3.png">
