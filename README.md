@@ -15,7 +15,7 @@
 # To rebuild the original protected disk (and obtain a clean master)
 
 Copy this D64 on a floppy disk on drive #8
-<a href="https://github.com/Zibri/The-Great-Giana-Sisters-C64-D64/raw/master/The%20Great%20Giana%20Sisters%20ORIGINAL.d64">Original protected D64d</a>
+<a href="https://github.com/Zibri/The-Great-Giana-Sisters-C64-D64/raw/master/The%20Great%20Giana%20Sisters%20ORIGINAL.d64">Original protected D64</a>
 
 Then RUN
 <a href="https://github.com/Zibri/The-Great-Giana-Sisters-C64-D64/raw/master/WP.PRG">WP.PRG</a>
