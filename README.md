@@ -24,7 +24,7 @@ WP.PRG will write the protection track on track #36
 
 # Result
 
-The result is a perfect master of The Great Giana Sisters.
+The result is a perfect master of The Great Giana Sisters.   
 Mission accomplished.
 
 <a href="https://github.com/Zibri/The-Great-Giana-Sisters-C64-D64/raw/master/TheGreatGianaSistersMaster.g64">TheGreatGianaSistersMaster.g64</a>
