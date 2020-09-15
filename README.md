@@ -20,7 +20,9 @@ Copy this D64 on a floppy disk on drive #8
 Then RUN
 <a href="https://github.com/Zibri/The-Great-Giana-Sisters-C64-D64/raw/master/WP.PRG">WP.PRG</a>
 
-WP.PRG will write the protection track on track #36
+WP.PRG will write the protection track on track #36  
+The protection consists of an empty track containing only a SYNC of a length between 110 and 113 bytes.  
+Therefore the best length for maximum compatibility is 111 byte and a half.  
 
 # Result
 
