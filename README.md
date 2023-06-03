@@ -30,3 +30,15 @@ The result is a perfect master of The Great Giana Sisters.
 Mission accomplished.
 
 <a href="https://github.com/Zibri/The-Great-Giana-Sisters-C64-D64/raw/master/TheGreatGianaSistersMaster.g64">TheGreatGianaSistersMaster.g64</a>
+
+# Addendum
+
+The original disk of Giana Sisters can be copied with any quickcopy.
+To remove the protection just run once this basic program:
+```
+10 open1,8,0,"1"                        
+20 open15,8,15                          
+30 print#15,"m-w"chr$(4)chr$(4)chr$(1)chr$(44)                                  
+40 print#15,"m-w"chr$(1)chr$(0)chr$(1)chr$(144)                                 
+50 close15:close1
+```
