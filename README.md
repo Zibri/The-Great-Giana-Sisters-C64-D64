@@ -31,6 +31,11 @@ Mission accomplished.
 
 <a href="https://github.com/Zibri/The-Great-Giana-Sisters-C64-D64/raw/master/TheGreatGianaSistersMaster.g64">TheGreatGianaSistersMaster.g64</a>
 
+# Important note:  
+
+This game will load only if only one drive is present on the IEC BUS.
+
+
 # Addendum
 
 The original disk of Giana Sisters can be copied with any quickcopy.
