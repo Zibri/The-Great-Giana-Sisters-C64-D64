@@ -42,3 +42,12 @@ To remove the protection just run once this basic program:
 40 print#15,"m-w"chr$(1)chr$(0)chr$(1)chr$(144)                                 
 50 close15:close1
 ```
+
+Alternatively you can do:  
+```
+LOAD"2",8
+POKE14776,35
+RUN
+```
+Or you can save "2" after the POKE.  
+This causes the loader to jump at $823 instead than $820.  
